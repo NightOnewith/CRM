@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="yuanmacrm"
+  id="myeclipse.1493186331045"
+  context-root="/yuanmacrm"
+  j2ee-spec="5.0"
+  archive="yuanmacrm.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
